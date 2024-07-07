@@ -30,13 +30,13 @@ Siga os passos abaixo para configurar o projeto localmente:
 1. **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/usuario/projeto-cypress.git
+    git clone https://github.com/gabieesf/projeto_cypress_tqa.git
     ```
 
 2. **Navegue até o diretório do projeto:**
 
     ```bash
-    cd projeto-cypress
+    cd projeto_cypress_tqa
     ```
 
 3. **Instale as dependências:**
